@@ -1,0 +1,22 @@
+{
+  "outDir": "src/types",
+  "specVersions": "https://v2.archive.subsquid.io/metadata/polkadot",
+  "pallets": {
+    "Balances": {
+      "events": [
+        "Transfer"
+      ],
+      "calls": [],
+      "storage": [],
+      "constants": []
+    },
+    "ParaInclusion": {
+      "events": [
+        "CandidateIncluded"
+      ],
+      "calls": [],
+      "storage": [],
+      "constants": []
+    }
+  }
+}
